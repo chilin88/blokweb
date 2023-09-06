@@ -65,6 +65,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - ik snap niet hoe ik de screenreader kan laten pauzeren of terug kan spelen
   - mijn laptop staat op zn engels ingesteld, maar de website is Nederlands. de screenleader leest zowel in het nederlands als engels voor
   - de screenreader leest elke typinvoer op tijdens het typen
+  - als er een link is op de website benoemt de screenreader dit ook
   
   Conclusie
   - de screenreader is lastig te gebruiken (als je er niet bekend mee bent?)
