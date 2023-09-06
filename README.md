@@ -59,7 +59,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Gebruik van de screenreader op de website ticketmaster.nl
   
   Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
   - ik moet eerst te weten komen hoe de screenreader geactiveerd wordt
   - de screenreader gaat op een rap tempo, die voor mij niet te volgen is
   - ik snap niet hoe ik de laptop moet bedienen om de website te gebruiken
