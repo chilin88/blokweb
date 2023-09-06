@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   In deze test: test is het gebruik van de screenreader op de website ticketmaster.nl.
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - de gebruiker moet eerst te weten te komen hoe de screenreader geactiveerd wordt
+  - ik moet eerst te weten komen hoe de screenreader geactiveerd wordt
   - de screenreader gaat op een rap tempo, die voor mij niet te volgen is
   - ik snap niet hoe ik de laptop moet bedienen om de website te gebruiken
   - ik snap niet hoe ik de screenreader kan laten pauzeren of terug kan spelen
@@ -66,9 +66,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - de screenreader leest elke typinvoer op tijdens het typen
 
    ### Conclusie
-   - de screenreader is lastig te gebruiken (als je er niet familiar mee bent?)
+   - de screenreader is lastig te gebruiken (als je er niet bekend mee bent?)
    - de screenreader leest alles letterlijk voor
-   - ik moet uitzoeken hoe de screenreader gebruikt moet mijn doel op de website te kunnen voltooien
+   - met het gebruik van de screenreader ben ik niet in staat om mijn doel op de website te kunnen voltooien
 
 </details>
 
