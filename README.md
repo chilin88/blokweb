@@ -55,7 +55,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
-  In deze test: test is het gebruik van de screenreader op de website ticketmaster.nl.
+  In deze test:
+  test is het gebruik van de screenreader op de website ticketmaster.nl.
   
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
