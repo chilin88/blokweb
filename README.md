@@ -54,7 +54,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+ Oefening Toegankelijkheidstesten
 
+  Mobiliteit:
+  Om de mobiliteit te testen heb ik elastiekjes om mijn vingers gedaan en geprobeerd de Ticketmaster-website te gebruiken. Dit verliep zonder grote problemen; de website bleef goed bruikbaar. De enige uitdaging  was dat de elastiekjes oncomfortabel aanvoelden, maar dit had geen invloed op de werking van de site.
+
+  Zichtbaarheid:
+  Voor het testen van zichtbaarheid heb ik verschillende brillen gedragen, waaronder brillen met wazige plekken of vlekken. Hierdoor waren sommige delen van de website lastig direct te zien. Door te scrollen    werd de inhoud echter geleidelijk zichtbaar, en het lezen van de content was goed te doen. Hoewel het moeilijk is om alles in één oogopslag te overzien, blijft de leesbaarheid van de site voldoende.
+
+  Motoriek:
+  Met behulp van een elektrische spierstimulator heb ik gesimuleerd hoe het is om controle over bepaalde bewegingen en gevoel in de arm of hand te verliezen, vergelijkbaar met de ervaringen van mensen met     bijvoorbeeld Parkinson. Dit maakte het gebruik van de website uitdagender, vooral bij het typen in de zoekbalk of het navigeren met de muis. Toch viel op dat de website voldoende ruimte biedt tussen de   verschillende elementen, waardoor ik niet per ongeluk op het verkeerde klikte. Dit zorgde voor een prettige ervaring ondanks de motorische beperkingen.
+  
   ### Screenreader test
   Gebruik van de screenreader op de website Ticketmaster.nl
 
