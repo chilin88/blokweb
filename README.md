@@ -71,13 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Screenreader activeren:
   Windows-toets + Ctrl + Enter
 
-  Bevindingen:
-  - Bij het activeren begint de screenreader automatisch door de website te navigeren, wat gebeurt in een hoog tempo.
-  - Met de pijltjestoetsen op het toetsenbord kan ik handmatig door de inhoud navigeren en zelf bepalen wanneer ik naar de volgende sectie ga.
-  - De screenreader volgt standaard een vaste volgorde: van boven naar beneden en van links naar rechts.
-  - Het snel zoeken naar specifieke informatie is lastig, omdat ik verplicht ben de inhoud chronologisch te doorlopen.
-
-  ### A11Y Checklist
+  Bij het testen van de screenreader op de Ticketmaster-website viel het volgende op: bij activatie begint de screenreader automatisch in hoog tempo door de website te navigeren, wat overweldigend kan zijn. Door gebruik te maken van de pijltjestoetsen is het mogelijk om handmatig door de inhoud te gaan en zelf te bepalen wanneer naar de volgende sectie wordt genavigeerd. De screenreader volgt een vaste volgorde: van boven naar beneden en van links naar rechts. Een aandachtspunt is dat het moeilijk is om snel specifieke informatie te vinden, omdat de inhoud chronologisch moet worden doorlopen.
 
 </details>
 
