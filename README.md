@@ -58,19 +58,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Screenreader test
   Gebruik van de screenreader op de website ticketmaster.nl
   
-  Bevindingen
-  - ik moet eerst te weten komen hoe de screenreader geactiveerd wordt
-  - de screenreader gaat op een rap tempo, die voor mij niet te volgen is
-  - ik snap niet hoe ik de laptop moet bedienen om de website te gebruiken
-  - ik snap niet hoe ik de screenreader kan laten pauzeren of terug kan spelen
-  - mijn laptop staat op zn engels ingesteld, maar de website is Nederlands. de screenleader leest zowel in het nederlands als engels voor
-  - de screenreader leest elke typinvoer op tijdens het typen
-  - als er een link is op de website benoemt de screenreader dit ook
-  
-  Conclusie
-  - de screenreader is lastig te gebruiken (als je er niet bekend mee bent?)
-  - de screenreader leest alles letterlijk voor
-  - met het gebruik van de screenreader ben ik niet in staat om mijn doel op de website te kunnen voltooien
+  Screenreader activeren: windows key + ctrl + enter
+
+  - de screenreader gaat in het begin uit zichzelf door de website heen en dit gaat op een rap tempo
+  - als ik zelf met de pijltjes op mijn toetsenbord gebruik kan ik zelf bepalen wanneer ik naar de volgende sectie wil
+  - de volgorde van de screenreader gaat standaard van boven naar beneden en van links naar recht
+  - als ik snel iets wil vinden met de screenreader kan het niet, omdat ik overal chronologisch langs moet
 
   ### A11Y Checklist
 
