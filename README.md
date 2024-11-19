@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detailpagina  
-  <img src="readme-images/ticketmaster_info.jpg" width="375px" alt="Mobiele detailpagina van de website 'Ticketmaster'">
+  <img src="readme-images/mobieldetailpagina.jpg" width="375px" alt="Mobiele detailpagina van de website 'Ticketmaster'">
   
 </details>
 
@@ -59,7 +59,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Gebruik van de screenreader op de website ticketmaster.nl
   
   Screenreader activeren: windows key + ctrl + enter
-
+  
+  Bevindingen:
   - de screenreader gaat in het begin uit zichzelf door de website heen en dit gaat op een rap tempo
   - als ik zelf met de pijltjes op mijn toetsenbord gebruik kan ik zelf bepalen wanneer ik naar de volgende sectie wil
   - de volgorde van de screenreader gaat standaard van boven naar beneden en van links naar recht
