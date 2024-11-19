@@ -73,6 +73,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Bij het testen van de screenreader op de Ticketmaster-website viel het volgende op: bij activatie begint de screenreader automatisch in hoog tempo door de website te navigeren, wat overweldigend kan zijn. Door gebruik te maken van de pijltjestoetsen is het mogelijk om handmatig door de inhoud te gaan en zelf te bepalen wanneer naar de volgende sectie wordt genavigeerd. De screenreader volgt een vaste volgorde: van boven naar beneden en van links naar rechts. Een aandachtspunt is dat het moeilijk is om snel specifieke informatie te vinden, omdat de inhoud chronologisch moet worden doorlopen.
 
+  ### A11Y test
+
 </details>
 
 
