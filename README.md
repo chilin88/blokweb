@@ -56,15 +56,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Screenreader test
-  Gebruik van de screenreader op de website ticketmaster.nl
-  
-  Screenreader activeren: windows key + ctrl + enter
-  
+  Gebruik van de screenreader op de website Ticketmaster.nl
+
+  Screenreader activeren:
+  Windows-toets + Ctrl + Enter
+
   Bevindingen:
-  - de screenreader gaat in het begin uit zichzelf door de website heen en dit gaat op een rap tempo
-  - als ik zelf met de pijltjes op mijn toetsenbord gebruik kan ik zelf bepalen wanneer ik naar de volgende sectie wil
-  - de volgorde van de screenreader gaat standaard van boven naar beneden en van links naar recht
-  - als ik snel iets wil vinden met de screenreader kan het niet, omdat ik overal chronologisch langs moet
+  - Bij het activeren begint de screenreader automatisch door de website te navigeren, wat gebeurt in een hoog tempo.
+  - Met de pijltjestoetsen op het toetsenbord kan ik handmatig door de inhoud navigeren en zelf bepalen wanneer ik naar de volgende sectie ga.
+  - De screenreader volgt standaard een vaste volgorde: van boven naar beneden en van links naar rechts.
+  - Het snel zoeken naar specifieke informatie is lastig, omdat ik verplicht ben de inhoud chronologisch te doorlopen.
 
   ### A11Y Checklist
 
