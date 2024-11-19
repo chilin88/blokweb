@@ -40,12 +40,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Hoofdpagina  
-  <img src="readme-images/ticketmaster_hoofd.jpg" width="375px" alt="Hoofdpagina van de website 'Ticketmaster'">
+  <img src="readme-images/ticketmaster_hoofd.jpg" width="375px" alt="Mobiele hoofdpagina van de website 'Ticketmaster'">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detailpagina  
-  <img src="readme-images/ticketmaster_info.jpg" width="375px" alt="Detailpagina van de website 'Ticketmaster'">
- 
+  <img src="readme-images/ticketmaster_info.jpg" width="375px" alt="Mobiele detailpagina van de website 'Ticketmaster'">
+  
 </details>
 
 
