@@ -85,7 +85,7 @@ Samen met Elif hebben we onze websites beoordeeld en een A11Y-test uitgevoerd om
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.jpg" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
