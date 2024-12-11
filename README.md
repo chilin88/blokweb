@@ -112,6 +112,8 @@ Samen met Elif hebben we onze websites beoordeeld en een A11Y-test uitgevoerd om
 
  <img src="readme-images/notesvoortgangsgesprek1.jpg" width="500px" alt="vragen en notitities van voortgangsgesprek 1">
 
+ Mijn code zag er verder netjes en verzorgd uit.
+
 
 
 
