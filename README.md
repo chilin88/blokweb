@@ -99,26 +99,18 @@ Samen met Elif hebben we onze websites beoordeeld en een A11Y-test uitgevoerd om
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ter voorbereiding op het eerste voortgangsgesprek heb ik de html van mijn eerste pagina gemaakt en een aantal vragen opgesteld over dingen waar ik nog niet helemaal zeker over was.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Bij het voortgangsgesprek heb ik samen met Sieben naar mijn code gegeken.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  De vragen die ik voor het gesprek had opgesteld eb ik allemaal kunnen vragen en beantwoord kunnen krijgen.
+  Hier een screenshot van mijn aantekeningen: 
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+
 
 </details>
 
