@@ -110,7 +110,7 @@ Samen met Elif hebben we onze websites beoordeeld en een A11Y-test uitgevoerd om
   De vragen die ik voor het gesprek had opgesteld eb ik allemaal kunnen vragen en beantwoord kunnen krijgen.
   Hier een screenshot van mijn aantekeningen: 
 
- <img src="readme-images/notesvoortgangsgesprek1.jpg" width="375px" alt="vragen en notitities van voortgangsgesprek 1">
+ <img src="readme-images/notesvoortgangsgesprek1.jpg" width="500px" alt="vragen en notitities van voortgangsgesprek 1">
 
 
 
